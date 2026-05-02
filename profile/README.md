@@ -2,9 +2,9 @@
 
 Welcome to Imaginears Club - We are the organization thats behind the Imaginears Club Minecaft Server. We focus on building magical 1:1 scale recreations of Walt Disney Parks around the world.
 
-This organization is where we develop our custom made plugins to enhnace the expereicnes of the guests on the servers.
+This organization is where we develop our custom made plugins to enhance the experiences of the guests on the servers.
 
-While most code/repos are closed source in order to protect our code, from time to time we may release certian repos or code that may be able to benefit other servers in maintence and upkeep. 
+While most code/repos are closed source in order to protect our code, from time to time we may release certain repos or code that may be able to benefit other servers in maintence and upkeep. 
 
 If you would like to join our team as a developer please apply [here](https://imaginears.club/apply).
 
@@ -39,7 +39,7 @@ Imaginears is an organization where members explore interdisciplinary projects t
 - Co/Owner - Manages overall organization functions
 - Coordinator — Oversees departments or groups of Cast Members, ensures that departments on running on schedule and relaying issues to Co/Owner.
 - Developer — Responsible for developing our systems, such as websites, plugins for minecraft servers and ensuring things stay updated
-- Guest Relations/Imaginears - Responsible for Guest Intateractions, and building new attractions and shows respectivily.
+- Guest Relations/Imaginears - Responsible for Guest Interactions, and building new attractions and shows respectively.
 
 Roles, are appointed by managment team, such as Co/Owner and Coordinators.
 
