@@ -76,3 +76,4 @@ Guidelines:
 ## Contact
 For general inquiries or partnerships:
 - Social / Website: https://imaginears.club
+- Discord: https://discord.gg/zApx2kC
